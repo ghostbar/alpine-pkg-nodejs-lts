@@ -1,5 +1,5 @@
-alpine-pkg-nodejs
-=================
+alpine-pkg-nodejs-lts
+=====================
 
 + **nodejs**: 4.3.1-r0
 + **libuv**: 1.8.0-r0
@@ -15,7 +15,8 @@ alpine `3.2`, `3.3` and `edge`.
 **How do I use it?**
 
     # echo 'http://ghostbar.github.io/alpine-pkg-nodejs-lts/v3.2/pkgs' >> \
-      /etc/apk/repositories apk --update --allow-untrusted add nodejs-lts
+      /etc/apk/repositories
+    # apk --update --allow-untrusted add nodejs-lts
 
 You could download the package directly as well with:
 
