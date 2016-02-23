@@ -1,8 +1,10 @@
 alpine-pkg-nodejs-lts
 =====================
 
-+ **nodejs**: 4.3.1-r0
-+ **libuv**: 1.8.0-r0
++ **nodejs**: 4.3.1-r0 (`armhf` && `x86_64`)
++ **libuv**: 1.8.0-r0 (`armhf` && `x86_64`)
+
+[More alpine-related stuff here!](https://github.com/ghostbar/alpine-devel)
 
 WHAT IS THIS?
 -------------
@@ -21,8 +23,8 @@ alpine `3.2`, `3.3` and `edge`.
 You could download the package directly as well with:
 
     $ curl -O \
-    https://ghostbar.github.io/alpine-pkg-nodejs-lts/v3.2/pkgs/x86_64/nodejs-lts-4.2.1-r0.apk
-    # apk add --allow-untrusted nodejs-lts-4.2.1-r0.apk
+    https://ghostbar.github.io/alpine-pkg-nodejs-lts/v3.2/pkgs/x86_64/nodejs-lts-4.3.1-r0.apk
+    # apk add --allow-untrusted nodejs-lts-4.3.1-r0.apk
 
 **Which way is better to download?**
 
