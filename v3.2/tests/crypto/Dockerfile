@@ -1,4 +1,4 @@
-FROM resnullius/alpine:3.2
+FROM local/node-lts:test
 
 WORKDIR /opt
 COPY test.js /opt/
