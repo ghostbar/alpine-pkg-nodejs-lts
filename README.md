@@ -1,7 +1,7 @@
 alpine-pkg-nodejs-lts
 =====================
 
-+ **nodejs**: 4.4.1-r0 (`armhf` && `x86_64`)
++ **nodejs**: 4.4.2-r0 (`armhf` && `x86_64`)
 + **libuv**: 1.8.0-r0 (`armhf` && `x86_64`)
 
 [More alpine-related stuff here!](https://github.com/ghostbar/alpine-devel)
