@@ -1,6 +1,6 @@
 # Maintainer: Jose-Luis Rivas <me@ghostbar.co>
 pkgname=nodejs-lts
-pkgver=6.10.0
+pkgver=6.11.0
 pkgrel=0
 pkgdesc='Evented I/O for V8 javascript'
 url='https://nodejs.org/'
@@ -43,6 +43,6 @@ package() {
 	done
 }
 
-md5sums="6ed4e31b3e48843d744587435809e7d1  node-v6.10.0.tar.gz"
-sha256sums="01dae00dc0faa37a4b7a84098e2f04631827fc42e319eb66ccc3ab1d561ea42d  node-v6.10.0.tar.gz"
-sha512sums="79d3d0854dea1a733175eaa9c5ba0d697d0c57cbcaf2920457eca2d77cc5edadcff8b9eef047156183d05b933582af1b7ef0e64071a9be1c79903af3e7437a92  node-v6.10.0.tar.gz"
+md5sums="262420521a966befe17dfa0070ddb272  node-v6.11.0.tar.gz"
+sha256sums="821f518c9b25b7dc52c4d87fce4dbf6df3227aba92f0d008ec9d1f32e5f603d9  node-v6.11.0.tar.gz"
+sha512sums="a298232f6393735f2d459eb23f78089dd7eb1bae4907dfe61b286ceb8f93d3131c2dd45f09643089d00e2a4bef0f35739c9c8984f88b34c0ab515793f38eda46  node-v6.11.0.tar.gz"
